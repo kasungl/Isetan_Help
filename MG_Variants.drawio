@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T03:03:07.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="B4X0AGDNnzfmY_N1QVN5" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T06:54:27.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="D7bZx7uL89udXhXYYU4d" version="23.1.5" type="github">
   <diagram name="Page-1" id="0aZNLkQlluiamU0BQq9j">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,11 +16,17 @@
         <mxCell id="LMwlObG0JWAQ07UU-c8t-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Magento 2 configurable product&amp;nbsp;&lt;span style=&quot;background-color: rgb(211, 227, 253); color: rgb(4, 12, 40); font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif;&quot;&gt;creates different variations of a product&lt;/span&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;. It provides options from various menu types, such as multiple select, drop-down. Each combination of product options has a unique SKU, which it&#39;s much more convenient to track down and manage inventory.&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="130" width="790" height="70" as="geometry" />
         </mxCell>
-        <UserObject label="#:~:text=Magento%202%20configurable%20product%20creates,track%20down%20and%20manage%20inventory." linkTarget="_blank" link="https://blog.magestore.com/how-to-create-magento-2-configurable-product/#:~:text=Magento%202%20configurable%20product%20creates,track%20down%20and%20manage%20inventory." id="LMwlObG0JWAQ07UU-c8t-5">
-          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
-            <mxGeometry x="30" y="190" width="650" height="40" as="geometry" />
+        <UserObject label="3I4ujkJ" link="https://bit.ly/3I4ujkJ" id="LMwlObG0JWAQ07UU-c8t-7">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=0;overflow=hidden;spacing=10;strokeColor=none;fillColor=none;align=left;" vertex="1" parent="1">
+            <mxGeometry x="740" y="150" width="60" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="LMwlObG0JWAQ07UU-c8t-9" value="&lt;font style=&quot;&quot;&gt;*&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Configurable Products Standard Practice&lt;/font&gt;&amp;nbsp;&amp;nbsp;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LMwlObG0JWAQ07UU-c8t-10" value="Configurable Product&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#041F60;fillColor=#041F60;fontColor=#ffffff;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
