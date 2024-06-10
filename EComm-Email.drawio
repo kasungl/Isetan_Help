@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T07:24:32.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="OBirq1iCA4I4YoLqBvG7" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T08:12:46.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="QHOIYHgfR-4RHDA6UHIC" version="24.5.2" type="github">
   <diagram name="Page-1" id="EqdyRZUB8mDeh12ShYHr">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         </mxCell>
         <mxCell id="4vrZVHxkrmI99MQdSNeo-55" value="&lt;b&gt;&lt;font color=&quot;#3053ff&quot;&gt;Manual Process&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4vrZVHxkrmI99MQdSNeo-29">
           <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4vrZVHxkrmI99MQdSNeo-30" value="Delivery Notification &amp;amp; Customer Invoice (LS) Email" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
@@ -111,6 +111,18 @@
         </mxCell>
         <mxCell id="4vrZVHxkrmI99MQdSNeo-54" value="B" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="510" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4vrZVHxkrmI99MQdSNeo-56" value="LS Order Confirmation Email (C)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="690" y="445" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4vrZVHxkrmI99MQdSNeo-57" value="Magento Invoice Email (ST1)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="690" y="530" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4vrZVHxkrmI99MQdSNeo-58" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="641" y="493" width="39" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4vrZVHxkrmI99MQdSNeo-65" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#33FF33;strokeColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="115" y="485" width="45" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
