@@ -92,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-147" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; font-size: 16px; color: rgb(3, 155, 229); padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-size: 16px;&quot; id=&quot;Top-Level_eCommerce_Process_Flow&quot;&gt;&amp;nbsp;eCommerce Process Flow | Retail Setup&amp;nbsp;&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-773" y="40" width="478" height="30" as="geometry" />
+          <mxGeometry x="-783" y="37" width="478" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-159" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; font-size: 14px; color: rgb(3, 155, 229); padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;The core processes of an eCommerce business typically involve the following steps&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-771" y="-1086" width="725" height="30" as="geometry" />
@@ -116,34 +116,25 @@
           <mxGeometry x="268" y="12.95" width="200" height="31.09" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-166" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="-773" y="193" width="739" height="337" as="geometry" />
+          <mxGeometry x="-773" y="337" width="739" height="193" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-167" value="Business Central" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#7EA6E0;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="-773" y="194" width="90" height="337" as="geometry" />
-        </mxCell>
-        <mxCell id="FsNF8_H5nUbt7xwvHBq2-172" value="Merchandising /Buyers&amp;nbsp;" style="text;strokeColor=#82b366;fillColor=#d5e8d4;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-675" y="202" width="538" height="197" as="geometry" />
-        </mxCell>
-        <mxCell id="FsNF8_H5nUbt7xwvHBq2-173" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="FsNF8_H5nUbt7xwvHBq2-174" target="FsNF8_H5nUbt7xwvHBq2-176" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FsNF8_H5nUbt7xwvHBq2-174" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-664" y="290" width="25" height="25" as="geometry" />
+          <mxGeometry x="-773" y="337" width="90" height="194" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-175" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="FsNF8_H5nUbt7xwvHBq2-176" target="FsNF8_H5nUbt7xwvHBq2-178" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-176" value="Item Creation" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-616" y="277.5" width="99" height="50" as="geometry" />
+          <mxGeometry x="-629.48" y="394" width="99" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-177" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="FsNF8_H5nUbt7xwvHBq2-167" target="FsNF8_H5nUbt7xwvHBq2-167" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-178" value="Retail Price" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-471" y="237" width="82" height="31" as="geometry" />
+          <mxGeometry x="-452" y="346" width="82" height="31" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-180" value="Inventory" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-470" y="287.5" width="81" height="30" as="geometry" />
+          <mxGeometry x="-452" y="391" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-181" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FsNF8_H5nUbt7xwvHBq2-176" target="FsNF8_H5nUbt7xwvHBq2-180" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -158,13 +149,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-183" value="&lt;strong&gt;Promotions&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-471" y="335" width="80" height="36.5" as="geometry" />
+          <mxGeometry x="-451.5" y="435" width="80" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-237" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="FsNF8_H5nUbt7xwvHBq2-189" target="FsNF8_H5nUbt7xwvHBq2-235" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-189" value="&lt;b&gt;Retail&amp;nbsp;Setup&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-665" y="454" width="522" height="42" as="geometry" />
+          <mxGeometry x="-657.5" y="493" width="501" height="25" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-193" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="FsNF8_H5nUbt7xwvHBq2-176" target="FsNF8_H5nUbt7xwvHBq2-183" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -176,19 +167,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-197" value="&lt;strong&gt;Product Promo&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-323" y="282.25" width="80" height="36.5" as="geometry" />
+          <mxGeometry x="-266.91" y="365" width="80" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-232" value="&lt;b&gt;Promo Vouchers&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-323" y="348" width="80" height="36.5" as="geometry" />
-        </mxCell>
-        <mxCell id="FsNF8_H5nUbt7xwvHBq2-239" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FsNF8_H5nUbt7xwvHBq2-172" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-404" y="404" as="sourcePoint" />
-            <mxPoint x="-404.5" y="454" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-266.91" y="419" width="80" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-240" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; font-size: 14px; color: rgb(3, 155, 229); padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1) Pricing is a critical aspect of eCommerce, as it directly impacts profitability and customer perception. Effective pricing strategies can help businesses maximize revenue, attract customers, and build a sustainable business.&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-774" y="58" width="725" height="66" as="geometry" />
+          <mxGeometry x="-778" y="58" width="725" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-241" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; font-size: 14px; color: rgb(3, 155, 229); padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2) Inventory management is a critical process in eCommerce, ensuring that businesses have the right products in the right quantities at the right time to meet customer demand. It involves tracking, storing, and replenishing inventory effectively.&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-776" y="116" width="725" height="66" as="geometry" />
@@ -218,10 +203,10 @@
           <mxGeometry x="-771" y="832" width="741" height="216" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-248" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-772" y="827" width="740" height="226" as="geometry" />
+          <mxGeometry x="-774" y="827" width="740" height="226" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-251" value="Ecommerce" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#7EA6E0;horizontal=0;" parent="FsNF8_H5nUbt7xwvHBq2-248" vertex="1">
-          <mxGeometry y="4" width="86.37" height="214" as="geometry" />
+          <mxGeometry x="3" y="6" width="86.37" height="214" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-286" value="&lt;b&gt;Magento Order&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="FsNF8_H5nUbt7xwvHBq2-248" vertex="1">
           <mxGeometry x="476.3630639730639" y="14" width="88.03591470258137" height="42" as="geometry" />
@@ -230,7 +215,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-302" value="&lt;b&gt;Payment Processing&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" parent="FsNF8_H5nUbt7xwvHBq2-248" vertex="1">
-          <mxGeometry x="158.97066217732885" y="88.00000000000003" width="66.0909090909091" height="42" as="geometry" />
+          <mxGeometry x="151.01" y="83.5" width="87.03" height="51" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-303" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="FsNF8_H5nUbt7xwvHBq2-248" vertex="1">
           <mxGeometry x="476.35999999999996" y="91.45" width="90.41" height="43.1" as="geometry" />
@@ -270,7 +255,7 @@
           <mxGeometry x="-316" y="1087" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-292" value="&lt;b&gt;Customer&amp;nbsp; Order&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-303.62" y="749" width="106" height="42" as="geometry" />
+          <mxGeometry x="-305" y="741" width="106" height="42" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-2" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="-772" y="-874" width="678" height="132.17" as="geometry" />
@@ -399,6 +384,54 @@
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-317" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="FsNF8_H5nUbt7xwvHBq2-285" target="FsNF8_H5nUbt7xwvHBq2-302" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sol9Hx2Mey-MQ7D0-gN6-47" value="" style="group;fontColor=#7EA6E0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-776" y="203" width="740" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="sol9Hx2Mey-MQ7D0-gN6-48" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="sol9Hx2Mey-MQ7D0-gN6-47" source="sol9Hx2Mey-MQ7D0-gN6-49" target="sol9Hx2Mey-MQ7D0-gN6-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sol9Hx2Mey-MQ7D0-gN6-49" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="sol9Hx2Mey-MQ7D0-gN6-47">
+          <mxGeometry width="739.9999999999999" height="114.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="sol9Hx2Mey-MQ7D0-gN6-50" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Merchandising /Buyers&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#7EA6E0;" vertex="1" parent="sol9Hx2Mey-MQ7D0-gN6-47">
+          <mxGeometry width="94" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="FsNF8_H5nUbt7xwvHBq2-174" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-592.48" y="236" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FsNF8_H5nUbt7xwvHBq2-173" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="FsNF8_H5nUbt7xwvHBq2-174" target="FsNF8_H5nUbt7xwvHBq2-176" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sol9Hx2Mey-MQ7D0-gN6-52" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; font-size: 16px; color: rgb(3, 155, 229); padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-size: 16px;&quot; id=&quot;Top-Level_eCommerce_Process_Flow&quot;&gt;&amp;nbsp;eCommerce Process Flow | Order Processing - Shipping&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-766" y="1199" width="738" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sol9Hx2Mey-MQ7D0-gN6-53" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-762.5" y="1303" width="739" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="sol9Hx2Mey-MQ7D0-gN6-54" value="Business Central" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="-762.5" y="1304" width="88" height="229" as="geometry" />
+        </mxCell>
+        <mxCell id="sol9Hx2Mey-MQ7D0-gN6-55" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="sol9Hx2Mey-MQ7D0-gN6-54" target="sol9Hx2Mey-MQ7D0-gN6-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sol9Hx2Mey-MQ7D0-gN6-56" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; font-size: 14px; color: rgb(3, 155, 229); padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Order processing is a critical step in the eCommerce journey, involving the steps from order placement to delivery. Efficient order processing ensures customer satisfaction and streamlined operations.&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-762.5" y="1226" width="725" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="sol9Hx2Mey-MQ7D0-gN6-57" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-761.5" y="1635" width="740" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="sol9Hx2Mey-MQ7D0-gN6-58" value="Customer" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="-762.5" y="1635" width="87" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="sol9Hx2Mey-MQ7D0-gN6-59" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-762.5" y="1538" width="741" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="sol9Hx2Mey-MQ7D0-gN6-76" value="&lt;b&gt;Customer&amp;nbsp; Order&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-266.91" y="1471" width="106" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="sol9Hx2Mey-MQ7D0-gN6-84" value="Ecommerce" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#7EA6E0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="-762.5" y="1538" width="88" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
