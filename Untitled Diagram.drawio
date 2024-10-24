@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9nB0Sxq_VMk9R8gdbDKS-1" value="Internal Ticket/Helpdesk portal.&amp;nbsp;&lt;br&gt;&amp;nbsp;V1 2024/07/12" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="40" y="-2160" width="380" height="40" as="geometry" />
+        <mxCell id="9nB0Sxq_VMk9R8gdbDKS-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Internal Ticket/Helpdesk portal.&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;V1 2024/07/12&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="42.76000000000001" y="-2180" width="380" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k4EKZJUmJZYb4bPbAgBR-116" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Internal&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Help Tickets&amp;nbsp; URL&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="20" width="270" height="40" as="geometry" />
