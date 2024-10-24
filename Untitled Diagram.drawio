@@ -261,7 +261,7 @@
           <mxGeometry x="66.5" y="-1630" width="679" height="150" as="geometry" />
         </mxCell>
         <mxCell id="UA1KvO3N8PsYrN7lqjv8-53" value="Departments" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#7EA6E0;horizontal=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="66.5" y="-1630" width="69" height="150" as="geometry" />
+          <mxGeometry x="66.5" y="-1630" width="63.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="UA1KvO3N8PsYrN7lqjv8-55" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="64.5" y="-1460" width="679" height="140" as="geometry" />
@@ -331,6 +331,9 @@
         </mxCell>
         <mxCell id="UA1KvO3N8PsYrN7lqjv8-81" value="First Level Support" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=0;fontSize=15;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="60.46000000000001" y="-1676" width="684" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="UA1KvO3N8PsYrN7lqjv8-83" value="Teams" style="text;strokeColor=#6c8ebf;fillColor=#CCFFFF;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#7EA6E0;horizontal=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="-1630" width="50" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
