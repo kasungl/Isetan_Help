@@ -224,7 +224,7 @@
           <mxGeometry x="-787" y="1276" width="738" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-253" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="-778" y="1362" width="739" height="94" as="geometry" />
+          <mxGeometry x="-782" y="1362.5" width="739" height="94" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-254" value="Business Central" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-781" y="1363" width="88" height="93" as="geometry" />
