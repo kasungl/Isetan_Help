@@ -67,7 +67,7 @@
           <mxGeometry x="-770.5" y="-1019" width="361" height="92.7" as="geometry" />
         </mxCell>
         <mxCell id="9B3eb1JGoKKId0q3JEfG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-403.25" y="-1019" width="315" height="92.7" as="geometry" />
+          <mxGeometry x="-403.25" y="-1019" width="311.25" height="92.7" as="geometry" />
         </mxCell>
         <mxCell id="tXDbYtcbH_n3HrTqmFBk-1" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="-770.5" y="-778.3" width="679.5" height="67" as="geometry" />
@@ -319,7 +319,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-4" value="Business Central" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#7EA6E0;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="-159" y="-1018.5" width="71" height="91.2" as="geometry" />
+          <mxGeometry x="-163.25" y="-1019" width="71" height="91.2" as="geometry" />
         </mxCell>
         <mxCell id="FsNF8_H5nUbt7xwvHBq2-9" value="&lt;b&gt;PIM&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-675" y="-999.3" width="69.82" height="43.7" as="geometry" />
