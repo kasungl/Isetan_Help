@@ -5,16 +5,28 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="k8KEBQ3MooANIXH4T0-9-83" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; font-size: 20px; padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;ISETAN Stock Take Process Flow&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fontColor=#000066;" parent="1" vertex="1">
-          <mxGeometry x="-775" y="-1130" width="478" height="36" as="geometry" />
+          <mxGeometry x="-788" y="-1130" width="478" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="_SJh_2kdL77l0nsIWq_a-2" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-791" y="-1053" width="749" height="189" as="geometry" />
+        <mxCell id="_SJh_2kdL77l0nsIWq_a-2" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-788" y="-1049" width="749" height="189" as="geometry" />
         </mxCell>
         <mxCell id="_SJh_2kdL77l0nsIWq_a-3" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-791" y="-847" width="749" height="153" as="geometry" />
+          <mxGeometry x="-788" y="-853" width="749" height="192" as="geometry" />
         </mxCell>
-        <mxCell id="_SJh_2kdL77l0nsIWq_a-4" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-788" y="-381" width="749" height="122" as="geometry" />
+        <mxCell id="_SJh_2kdL77l0nsIWq_a-4" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-788" y="-654" width="749" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="_SJh_2kdL77l0nsIWq_a-5" value="Store Staff" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;strokeColor=#FFD966;fillColor=#fff2cc;fontColor=#CC6600;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-844" y="-993" width="186" height="75.13" as="geometry" />
+        </mxCell>
+        <mxCell id="_SJh_2kdL77l0nsIWq_a-7" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; font-size: 16px; color: rgb(3, 155, 229); padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;Monthly Stock take&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-788" y="-1094" width="478" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_SJh_2kdL77l0nsIWq_a-8" value="Finance" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;strokeColor=#82b366;fillColor=#d5e8d4;labelBorderColor=none;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="-832.75" y="-609.75" width="163.5" height="75.13" as="geometry" />
+        </mxCell>
+        <mxCell id="_SJh_2kdL77l0nsIWq_a-9" value="Business Central" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;strokeColor=#d79b00;fillColor=#ffe6cc;labelBorderColor=none;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="-842" y="-794.5699999999999" width="186" height="75.13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
