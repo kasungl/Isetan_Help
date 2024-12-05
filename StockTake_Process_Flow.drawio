@@ -584,7 +584,7 @@
           <mxGeometry x="-313.26" y="2071.5" width="55.45" height="55" as="geometry" />
         </mxCell>
         <mxCell id="_SJh_2kdL77l0nsIWq_a-304" value="PDT Software&lt;br&gt;Scan&amp;nbsp;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/pda.svg;" vertex="1" parent="1">
-          <mxGeometry x="-115" y="1910.57" width="60.17" height="111.43" as="geometry" />
+          <mxGeometry x="-105" y="1929.09" width="50.17" height="92.91" as="geometry" />
         </mxCell>
         <mxCell id="_SJh_2kdL77l0nsIWq_a-306" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-180;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="-199.51" y="1933" width="76.45" height="61.5" as="geometry" />
