@@ -594,7 +594,7 @@
           <mxGeometry x="-388.05999999999995" y="1443.98" width="211.78" height="53" as="geometry" />
         </mxCell>
         <mxCell id="_SJh_2kdL77l0nsIWq_a-209" value="Day Before Stock take day" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-502.13" y="1443.98" width="109.85" height="53" as="geometry" />
+          <mxGeometry x="-504" y="1443.98" width="111.72" height="53" as="geometry" />
         </mxCell>
         <mxCell id="_SJh_2kdL77l0nsIWq_a-210" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
