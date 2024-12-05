@@ -707,15 +707,6 @@
         <mxCell id="_SJh_2kdL77l0nsIWq_a-385" value="Unposted&lt;br&gt;Sales" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-261.78" y="2805" width="49.57" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="_SJh_2kdL77l0nsIWq_a-391" value="Recount&lt;br&gt;Adjustments" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-164.83" y="2924.53" width="93.01" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="_SJh_2kdL77l0nsIWq_a-392" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-181.99999999999997" y="2951.53" as="sourcePoint" />
-            <mxPoint x="-238.99999999999997" y="2951.53" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_SJh_2kdL77l0nsIWq_a-393" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; font-size: 20px; padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;ISETAN Stock take Process Flow | Proposal&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fontColor=#000066;" parent="1" vertex="1">
           <mxGeometry x="-784.28" y="3526" width="478" height="36" as="geometry" />
         </mxCell>
@@ -935,7 +926,7 @@
           <mxGeometry x="-105" y="4253.09" width="50.17" height="92.91" as="geometry" />
         </mxCell>
         <mxCell id="_SJh_2kdL77l0nsIWq_a-454" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-180;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="-199.51" y="4257" width="76.45" height="61.5" as="geometry" />
+          <mxGeometry x="-191.45" y="4258" width="76.45" height="61.5" as="geometry" />
         </mxCell>
         <mxCell id="_SJh_2kdL77l0nsIWq_a-455" value="&amp;nbsp;Draft Variance Report" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;verticalAlign=middle;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="-299.74" y="4446" width="16.01" height="147.02" as="geometry" />
@@ -1194,12 +1185,12 @@
           <mxGeometry x="-261.78" y="5129" width="49.57" height="53" as="geometry" />
         </mxCell>
         <mxCell id="_SJh_2kdL77l0nsIWq_a-528" value="Recount&lt;br&gt;Adjustments" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-145.01" y="4542.01" width="93.01" height="55" as="geometry" />
+          <mxGeometry x="-145.01" y="4519" width="93.01" height="55" as="geometry" />
         </mxCell>
         <mxCell id="_SJh_2kdL77l0nsIWq_a-529" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-150.99999999999997" y="4572" as="sourcePoint" />
-            <mxPoint x="-207.99999999999997" y="4572" as="targetPoint" />
+            <mxPoint x="-150.99999999999997" y="4546" as="sourcePoint" />
+            <mxPoint x="-207.99999999999997" y="4546" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_SJh_2kdL77l0nsIWq_a-530" value="Recount&lt;br&gt;Adjustments" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
