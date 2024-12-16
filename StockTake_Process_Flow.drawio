@@ -416,7 +416,7 @@
             <mxPoint x="-276.01" y="1607" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_SJh_2kdL77l0nsIWq_a-216" value="A + B&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_SJh_2kdL77l0nsIWq_a-215" vertex="1" connectable="0">
+        <mxCell id="_SJh_2kdL77l0nsIWq_a-216" value="A&amp;nbsp;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_SJh_2kdL77l0nsIWq_a-215" vertex="1" connectable="0">
           <mxGeometry x="-0.1785" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1414,7 +1414,7 @@
           <mxGeometry x="-801.28" y="6964" width="323.28" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpZVVKn0vJSW0-JKQjZJ-3" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;A | Inventory/Sales posting PID&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-793" y="6080" width="271.08" height="118" as="geometry" />
+          <mxGeometry x="-793" y="6087" width="271.08" height="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
