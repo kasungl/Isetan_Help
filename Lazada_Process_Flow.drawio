@@ -746,6 +746,11 @@
             <mxPoint x="6" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AtD2vkgVEjXMXcYUaR36-20" value="4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YyoulH0Vh7aD2ABdpHvu-12">
+          <mxGeometry x="0.5299" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YyoulH0Vh7aD2ABdpHvu-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="421" y="480" as="sourcePoint" />
@@ -754,6 +759,11 @@
         </mxCell>
         <mxCell id="YyoulH0Vh7aD2ABdpHvu-15" value="Scanned &lt;br&gt;Barcode" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YyoulH0Vh7aD2ABdpHvu-14">
           <mxGeometry x="0.0545" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AtD2vkgVEjXMXcYUaR36-19" value="0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YyoulH0Vh7aD2ABdpHvu-14">
+          <mxGeometry x="-0.7213" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -785,6 +795,11 @@
         </mxCell>
         <mxCell id="YyoulH0Vh7aD2ABdpHvu-23" value="Return&lt;br&gt;Item&amp;nbsp;&lt;br&gt;Details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YyoulH0Vh7aD2ABdpHvu-22">
           <mxGeometry x="-0.1272" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AtD2vkgVEjXMXcYUaR36-21" value="5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YyoulH0Vh7aD2ABdpHvu-22">
+          <mxGeometry x="0.588" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
