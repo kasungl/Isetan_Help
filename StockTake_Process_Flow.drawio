@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="vDul_YqK_dcnpiFwpa7n">
-    <mxGraphModel dx="2261" dy="1907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2474" dy="2046" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1410,11 +1410,70 @@
         <mxCell id="SI2fC0dfXHY4uBp6CD4G-135" value="&lt;br&gt;Final &lt;br&gt;Report&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="-348.99999999999994" y="5291" width="102" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="jpZVVKn0vJSW0-JKQjZJ-2" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;PID : Physical Inventory Document as of cutoff date&amp;nbsp;&amp;nbsp;&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=0;fontColor=#6b6666;" vertex="1" parent="1">
+        <mxCell id="jpZVVKn0vJSW0-JKQjZJ-2" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;PID : Physical Inventory Document as of cutoff date&amp;nbsp;&amp;nbsp;&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=0;fontColor=#6b6666;" parent="1" vertex="1">
           <mxGeometry x="-801.28" y="6964" width="323.28" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jpZVVKn0vJSW0-JKQjZJ-3" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;A | Inventory/Sales posting PID&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="jpZVVKn0vJSW0-JKQjZJ-3" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;A | Inventory/Sales posting PID&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-793" y="6087" width="271.08" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="j552SZLn4paQCeeURNuj-1" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; font-size: 20px; padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;ISETAN |&amp;nbsp;&amp;nbsp;Barcode Printing for Brand Promoter&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fontColor=#000066;" vertex="1" parent="1">
+          <mxGeometry x="-797.28" y="8226" width="478" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="j552SZLn4paQCeeURNuj-2" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;" vertex="1" parent="1">
+          <mxGeometry x="-201.28" y="8854" width="27.72" height="56.36" as="geometry" />
+        </mxCell>
+        <mxCell id="j552SZLn4paQCeeURNuj-3" value="Web Server&lt;br&gt;&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Aptos;&lt;br/&gt;mso-ligatures:standardcontextual;mso-ansi-language:EN-SG;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;172.18.200.21&lt;/span&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="-480.5" y="8690" width="72" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j552SZLn4paQCeeURNuj-4" value="&lt;b&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;IsetanLSC DB&lt;br&gt;&lt;/span&gt;in&lt;br&gt;&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Aptos;&lt;br/&gt;mso-ligatures:standardcontextual;mso-ansi-language:EN-SG;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;10.96.0.6&amp;nbsp;&lt;/span&gt;&lt;/b&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="-101.28" y="8366" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="j552SZLn4paQCeeURNuj-5" value="&lt;font face=&quot;Aptos, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;&lt;b&gt;Isetan_StockTake&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;Aptos, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;&lt;b&gt;in&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-weight: bold; font-size: 11pt; font-family: Aptos, sans-serif;&quot;&gt;172.18.200.21&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11pt; font-family: Aptos, sans-serif; font-size: 11pt;&quot;&gt;&lt;/span&gt;&lt;/b&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="-741.28" y="8396" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j552SZLn4paQCeeURNuj-28" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; font-size: 16px; color: rgb(3, 155, 229); padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;V1 ISD 20250110&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-797.28" y="8266" width="478" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="http://172.18.200.21:8081/stkweb/WebCountITSB.aspx" link="http://172.18.200.21:8081/isdreports/LSBarcode.aspx" id="j552SZLn4paQCeeURNuj-29">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-340" y="8920" width="320" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="j552SZLn4paQCeeURNuj-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-367.5" y="8406" as="sourcePoint" />
+            <mxPoint x="-118.5" y="8408" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j552SZLn4paQCeeURNuj-35" value="Item Master" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j552SZLn4paQCeeURNuj-33">
+          <mxGeometry x="-0.2311" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j552SZLn4paQCeeURNuj-44" value="Windows APP" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.form;" vertex="1" parent="1">
+          <mxGeometry x="-463.17" y="8406" width="87" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="j552SZLn4paQCeeURNuj-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-485" y="8411" as="sourcePoint" />
+            <mxPoint x="-673" y="8411" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j552SZLn4paQCeeURNuj-46" value="Item Master" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j552SZLn4paQCeeURNuj-45">
+          <mxGeometry x="0.1146" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j552SZLn4paQCeeURNuj-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-365.82" y="8427" as="sourcePoint" />
+            <mxPoint x="-116.82" y="8429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j552SZLn4paQCeeURNuj-48" value="PID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j552SZLn4paQCeeURNuj-47">
+          <mxGeometry x="-0.2311" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
