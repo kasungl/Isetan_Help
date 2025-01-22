@@ -1416,7 +1416,7 @@
         <mxCell id="jpZVVKn0vJSW0-JKQjZJ-3" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;A | Inventory/Sales posting PID&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-793" y="6087" width="271.08" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="j552SZLn4paQCeeURNuj-1" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; font-size: 20px; padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;ISETAN |&amp;nbsp;&amp;nbsp;Barcode Printing for Brand Promoter&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fontColor=#000066;" vertex="1" parent="1">
+        <mxCell id="j552SZLn4paQCeeURNuj-1" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; font-size: 20px; padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;ISETAN |&amp;nbsp; Stock take Application&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fontColor=#000066;" vertex="1" parent="1">
           <mxGeometry x="-797.28" y="8226" width="478" height="36" as="geometry" />
         </mxCell>
         <mxCell id="j552SZLn4paQCeeURNuj-2" value="Web App" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;" vertex="1" parent="1">
@@ -1431,7 +1431,7 @@
         <mxCell id="j552SZLn4paQCeeURNuj-5" value="&lt;font face=&quot;Aptos, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;&lt;b&gt;Isetan_StockTake&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;Aptos, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;&lt;b&gt;in&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-weight: bold; font-size: 11pt; font-family: Aptos, sans-serif;&quot;&gt;172.18.200.21&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11pt; font-family: Aptos, sans-serif; font-size: 11pt;&quot;&gt;&lt;/span&gt;&lt;/b&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" vertex="1" parent="1">
           <mxGeometry x="-788.56" y="8650" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="j552SZLn4paQCeeURNuj-28" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; font-size: 16px; color: rgb(3, 155, 229); padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;V1 ISD 20250110&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="j552SZLn4paQCeeURNuj-28" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 1.75rem; margin-bottom: 0.5rem; line-height: 1.2; font-size: 16px; color: rgb(3, 155, 229); padding-bottom: 1rem; font-family: &amp;quot;Source Sans Pro&amp;quot;, HelveticaNeue-Light, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Lucida Grande&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;V1 ISD 20250122&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-797.28" y="8266" width="478" height="30" as="geometry" />
         </mxCell>
         <UserObject label="http://172.18.200.21:8081/stkweb/WebCountITSB.aspx" link="http://172.18.200.21:8081/isdreports/LSBarcode.aspx" id="j552SZLn4paQCeeURNuj-29">
@@ -1563,6 +1563,9 @@
             <mxPoint x="-458.5" y="8647" as="sourcePoint" />
             <mxPoint x="-458" y="8513" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="j552SZLn4paQCeeURNuj-67" value="Variance Reports" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.quicksight_paginated_reports;" vertex="1" parent="1">
+          <mxGeometry x="-486" y="8404" width="62" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
