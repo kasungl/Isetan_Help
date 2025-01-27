@@ -1642,6 +1642,9 @@
         <mxCell id="526lxwhvVuprEf76DoZy-18" value="1.6  Retail Product Groups : List of retail product groups to be counted during stock take group. " style="text;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=0;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="19" y="1960" width="770" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="526lxwhvVuprEf76DoZy-19" value="1.7  Batch List: To create Predefined Stocktake Batches. " style="text;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1990" width="770" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
