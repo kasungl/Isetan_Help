@@ -707,7 +707,7 @@
           <mxGeometry x="-785.28" y="6376" width="478" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_SJh_2kdL77l0nsIWq_a-447" value="Count Sheet" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-156.00000000000003" y="6420" width="55.45" height="55" as="geometry" />
+          <mxGeometry x="-171.21000000000004" y="6422" width="55.45" height="55" as="geometry" />
         </mxCell>
         <mxCell id="_SJh_2kdL77l0nsIWq_a-448" value="Count Sheet" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-321.25" y="6486" width="55.45" height="55" as="geometry" />
@@ -951,7 +951,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_SJh_2kdL77l0nsIWq_a-516" value="Unposted&lt;br&gt;Sales" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-275.99999999999994" y="6424" width="49.57" height="53" as="geometry" />
+          <mxGeometry x="-271.99999999999994" y="6424" width="49.57" height="53" as="geometry" />
         </mxCell>
         <mxCell id="_SJh_2kdL77l0nsIWq_a-517" value="Unposted&lt;br&gt;Sales" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-260.57" y="6487" width="49.57" height="53" as="geometry" />
@@ -1602,13 +1602,13 @@
           <mxGeometry x="-316" y="6437" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vL0m6Xitejw_wq6XH_ZI-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/css-vol-2/24/math-equal-128.png" vertex="1" parent="1">
-          <mxGeometry x="-224.00999999999996" y="6420" width="60.99" height="60.99" as="geometry" />
+          <mxGeometry x="-219.20999999999998" y="6427" width="48" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="nWgBb5QCTmXI35zjHjlD" name="Page-2">
-    <mxGraphModel dx="1647" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
