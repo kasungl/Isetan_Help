@@ -1885,6 +1885,9 @@
         <mxCell id="NNmOJb0eWq4DH9LiwyJH-33" value="5.4  Count Sheets : Delete all count sheets  belongs to selected stocktake." style="text;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=0;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="39.010000000000005" y="7240" width="770" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NNmOJb0eWq4DH9LiwyJH-34" value="5.5  Remove Stocktake : Remove Stocktake from the system.." style="text;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="39.010000000000005" y="7270" width="770" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
